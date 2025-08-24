@@ -59,11 +59,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+<img width="370" height="436" alt="image" src="https://github.com/user-attachments/assets/bd778170-16c6-4f4b-9a99-4403ff0549d0" />
 
 
 
 # Output
 
+<img width="1381" height="203" alt="image" src="https://github.com/user-attachments/assets/7c51dd90-6165-4648-ac9a-cb8a20966a1a" />
 
 
 
